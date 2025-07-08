@@ -37,7 +37,7 @@ We use the Zora SDK to:
 ## 📦 Running Locally
 
 ```bash
-git clone https://github.com/your-username/clipcoin.git
+git clone https://github.com/jamyyy-commits/clipcoin.git
 cd clipcoin
 npm install
 npm run dev
